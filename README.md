@@ -5,14 +5,14 @@
 <h1 align="center">rate-limiting-notes</h1>
 
 <p align="center">
-  <strong>EN</strong> Token bucket / sliding window notes with examples.<br/>
-  <strong>PT</strong> Notas de token bucket / sliding window com exemplos.
+  <strong>EN</strong> Rate limit strategies for APIs.<br/>
+  <strong>PT</strong> Estratégias de rate limit para APIs.
 </p>
 
 <p align="center">
   <a href="https://github.com/manansbdb/rate-limiting-notes/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge" alt="MIT" /></a>
   <img src="https://img.shields.io/badge/lang-EN%20%7C%20PT-3b82f6?style=for-the-badge" alt="EN PT" />
-  <img src="https://img.shields.io/badge/type-notes-f97316?style=for-the-badge" alt="notes" />
+  <img src="https://img.shields.io/badge/type-guide-3b82f6?style=for-the-badge" alt="guide" />
   <a href="#support--apoio"><img src="https://img.shields.io/badge/donate-BTC-f59e0b?style=for-the-badge" alt="Donate BTC" /></a>
 </p>
 
@@ -22,7 +22,7 @@
 
 | English | Português |
 |---------|-----------|
-| Token bucket / sliding window notes with examples. | Notas de token bucket / sliding window com exemplos. |
+| Rate limit strategies for APIs. | Estratégias de rate limit para APIs. |
 
 ```mermaid
 flowchart LR
@@ -60,8 +60,8 @@ ls
 
 ## Files / Ficheiros
 
-- `NOTES.md`
-- `examples/`
+- `strategies.md`
+- `headers.md`
 
 ---
 
